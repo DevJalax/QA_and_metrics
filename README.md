@@ -79,3 +79,13 @@ Uninstalls
 Session length
 
 Active user rate
+
+## Buisness metrics
+
+Impact
+
+Turnover or profit
+
+Maintainance cost
+
+MTTF / Mean time to failure
