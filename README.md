@@ -28,6 +28,8 @@ For performance testing: Apteligent, NeoLoad ,  New Relic.
 
 For Security Testing: OWASP Zed Attack Proxy, Retina CS Community, Google Nogotofail, Veracode,  and SQL Map.
 
+[note : while functional testing check if conditional stmts are executed properly too not only syntactical and logical correctness]
+
 ## Webapp performance metrics
 
 Apdex score
