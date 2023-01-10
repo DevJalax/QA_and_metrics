@@ -91,3 +91,27 @@ Turnover or profit
 Maintainance cost
 
 MTTF / Mean time to failure
+
+## Project management
+
+SRS
+
+RAD , Spiral , Prototype model , Agile
+
+Scrum / Kanban
+
+Progress report : Gantt , Resource histogram , CPA
+
+Software metrics(size , design , control , info)
+
+Cost estimation : COCOMO model
+
+No of effective employees : Price law
+
+Putnam resource allocation risk mgmt (Ntask)
+
+ISO 9000 , Six Sigma certification , ITIL certification
+
+Software reliability models
+
+Software maintenance models
